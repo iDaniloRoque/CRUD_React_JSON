@@ -1,0 +1,10 @@
+Comando para cria pacote .jason
+npm init -y
+
+Instalando pacote .json
+npm i --save json-server@0.13.0 -E
+
+Instalar pacote react
+npm install -g create-react-app
+
+a.logo[href='/']

@@ -8,3 +8,6 @@ Instalar pacote react
 npm install -g create-react-app
 
 a.logo[href='/']
+
+npm install react-router-dom@6
+react-router-dom

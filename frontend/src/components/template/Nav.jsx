@@ -3,5 +3,14 @@ import React from 'react'
 
 export default props =>
     <aside className="menu-area">
-        Navegação
-    </aside>
+        <nav className="menu">
+            {/* Refatorar Em casa */}
+            <a href="#/">
+                <i className="fa fa-home">
+                    </i> Início
+             </a>
+             <a href="#/users">
+                <i className="fa fa-home"></i> Usuários
+             </a>
+        </nav>
+     </aside>
